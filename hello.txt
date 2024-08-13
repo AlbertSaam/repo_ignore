@@ -1,1 +1,2 @@
 hello.I'm AlbertKai 
+github使用端口22进行通信
